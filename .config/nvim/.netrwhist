@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/uchin/programming/zingmp3-fe-ts/src'
+let g:netrw_dirhist_3='/home/uchin/programming/zingmp3-fe-ts'
+let g:netrw_dirhist_2='/home/uchin/programming/zingmp3-fe-ts/src'
+let g:netrw_dirhist_1='/home/uchin/programming/zingmp3-fe-ts'
